@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local environment and editor
+.env
+.vscode/
+
+# Generated reports (keep sample input data)
+reports/*
+!reports/.gitkeep
